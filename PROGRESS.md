@@ -63,12 +63,12 @@ Learn → Build → Test → Debug → Improve → Commit → Prove
 
 ## Tuần 06 — Loops · enumerate · zip · comprehensions
 
-- [ ] `for`
-- [ ] `while`
-- [ ] `break` / `continue`
-- [ ] `enumerate()`
-- [ ] `zip()`
-- [ ] Hoàn thành bài toán lặp có cấu trúc
+- [x] `for`
+- [x] `while`
+- [x] `break` / `continue`
+- [x] `enumerate()`
+- [x] `zip()`
+- [x] Hoàn thành bài toán lặp có cấu trúc
 
 ## Tuần 07 — Functions · Decomposition · Scope · Type hints
 
