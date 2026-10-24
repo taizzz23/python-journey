@@ -6,8 +6,8 @@ NOT VUACOC RUNTIME CONTRACT
 Goal:
     Biến một state dạng chuỗi thành một action bằng function đơn giản.
 
-TODO:
-    Hoàn thành ``choose_action`` với tối đa ba rule dễ giải thích.
+Covered function:
+    Implemented ``choose_action`` với tối đa ba rule dễ giải thích.
 
 Examples and expected behavior:
     "danger" -> "defend"
