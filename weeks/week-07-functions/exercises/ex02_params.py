@@ -3,8 +3,8 @@
 Goal:
     Dùng default parameter và ghép nhiều hàm nhỏ thành một luồng tính hóa đơn.
 
-TODO:
-    Hoàn thành bốn hàm bên dưới theo thứ tự.
+Covered functions:
+    Bốn hàm bên dưới theo thứ tự.
 
 Examples:
     gioi_thieu("An") == "Tôi là An, 18 tuổi."
