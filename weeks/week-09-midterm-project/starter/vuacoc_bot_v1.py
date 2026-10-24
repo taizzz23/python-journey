@@ -12,7 +12,7 @@ def choose_action(state: dict[str, int]) -> str:
     opponent_position = state.get("opponent_position")
 
     # Rule 1: do not move after reaching the goal or beyond the board.
-    if position == goal or position <= min_position and goal < position:
+    if position == goal:
         return "wait"
     if position < min_position or position > max_position:
         return "wait"
