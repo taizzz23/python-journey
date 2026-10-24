@@ -3,8 +3,8 @@
 Goal:
     Truyền dữ liệu qua parameter thay vì để hàm phụ thuộc vào biến global.
 
-TODO:
-    1. Hoàn thành ``them_ghi_chu``.
+Covered functions:
+    1. Implemented ``them_ghi_chu``.
     2. Hoàn thành ``tim_ghi_chu``.
     3. Hoàn thành ``dem_ghi_chu``.
 
