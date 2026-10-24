@@ -3,8 +3,8 @@
 Goal:
     Viết các hàm nhỏ và dùng ``return`` thay vì chỉ ``print``.
 
-TODO:
-    1. Hoàn thành ``chao``.
+Covered functions:
+    1. Implemented ``chao``.
     2. Hoàn thành ``tinh_dien_tich_hinh_tron``.
     3. Hoàn thành ``la_so_chan``.
 
