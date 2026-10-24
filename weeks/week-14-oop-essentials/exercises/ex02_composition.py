@@ -50,7 +50,7 @@ class Bot:
 
 
 def main() -> None:
-    state = {"position": 0, "goal": 4, "opponent_position": 3}
+    state = {"position": 0, "goal": 4, "opponent_position": 1}
     for name, strategy in (("defensive", defensive), ("balanced", balanced), ("aggressive", aggressive)):
         bot = Bot(strategy)
         print(f"{name}: {bot.choose_action(state)}")
